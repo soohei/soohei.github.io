@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Select Parent Artboards</title>
+    <link>http://soohei.github.io/sketch-plugins/appcast/select-parent-artboards.xml</link>
+    <description>Selects the parent artboards of the current selection</description>
+    <language>en</language>
+    <item>
+      <title>v1.3</title>
+      <description>
+        <![CDATA[
+          <em>v1.3</em>
+          <ul>
+            <li>Supports Sketch >=53.0</li>
+          </ul>
+        ]]>
+      </description>
+      <enclosure url="https://github.com/soohei/select-parent-artboards/archive/v1.3.zip" sparkle:version="1.3"/>
+    </item>
+  </channel>
+</rss>
